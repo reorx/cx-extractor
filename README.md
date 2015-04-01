@@ -20,18 +20,16 @@ Bug reports and other feedback are most welcome :-)
 
 **Version** |  **Author** |  **Email** |  **Institute**
 ---|---|---|---
-Perl| [陈鑫](http://ir.hit.edu.cn/~xchen)| xchen@ir.hit.edu.cn|
-[哈工大信息检索研究中心](http://ir.hit.edu.cn)
-Java| [王利锋](http://ir.hit.edu.cn/~lfwang)、[罗磊](http://ir.hit.edu.cn/~lluo)|
-{lfwang,lluo}@ir.hit.edu.cn| [哈工大信息检索研究中心](http://ir.hit.edu.cn)
+Perl| [陈鑫](http://ir.hit.edu.cn/~xchen)| xchen@ir.hit.edu.cn|[哈工大信息检索研究中心](http://ir.hit.edu.cn)
+Java| [王利锋](http://ir.hit.edu.cn/~lfwang)、[罗磊](http://ir.hit.edu.cn/~lluo)|{lfwang,lluo}@ir.hit.edu.cn| [哈工大信息检索研究中心](http://ir.hit.edu.cn)
 C++| 朱亮| zhuliang@software.ict.ac.cn| [中科院计算所高级网络重点实验室](http://www.ict.ac.cn)
 PHP| 轩文烽| xwf1788@gmail.com| [哈工大智能技术与自然语言处理研究室](http://www.insun.hit.edu.cn)
 C#| 张帆| zfannn@gmail.com| [中科院信息科学与工程学院](http://www.gu.cas.cn/yxsz/xxkxygcxy/)
 
 
 如果您正在关注或使用cx-extractor，同时希望在第一时间得到该项目的更新信息，
-您可以加入该项目的邮件列表 <http://list.qq.com/cgi-
-bin/qf_invite?id=2a19dc7f75fcba75ee9962adfcf5013e3154e3b92ef767a3>
+您可以加入该项目的邮件列表 http://list.qq.com/cgi-
+bin/qf_invite?id=2a19dc7f75fcba75ee9962adfcf5013e3154e3b92ef767a3
 
 
 本软件的使用许可协议:[署名-非商业性使用-相同方式共享 (by-nc-
